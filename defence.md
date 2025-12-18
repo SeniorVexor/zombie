@@ -32,8 +32,8 @@
 **پدافند:** ۱۰۰+ گنبد (S400-like، ۱۲ لانچر) → ۹۹% intercept موشک/بمب/هوابرد.  
 **vs زیردریایی:** مین عمقی + پهپاد anti-sub.  
 
-![Lingayen Gulf Invasion Map High-Res](https://pacificwrecks.com/location/philippines/pangasinan/lingayen_gulf/maps/sixth-army-landings-1945.html)  
-*نقشه خلیج Lingayen (چوک شمالی، landings 1945) - دانلود: [Pacific Wrecks](https://pacificwrecks.com/location/philippines/pangasinan/lingayen_gulf/maps/sixth-army-landings-1945.html)*
+![Lingayen Gulf Invasion Map High-Res](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lingayen_Gulf_Landings_1941.jpg/250px-Lingayen_Gulf_Landings_1941.jpg)  
+*نقشه خلیج Lingayen (چوک شمالی، landings 1945) - دانلود: [Pacific Wrecks](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEvnvng3NJzLdE96yX5BEE3bQcvKYUqIX-_w&s)*
 
 ## 🇵🇭 رول دفاع فیلیپین صفحه دوم 🇵🇭
 
@@ -70,10 +70,10 @@
 **vs هوایی:** گنبد + swarm (black sky).  
 
 ![Surigao Strait Map High-Res](https://upload.wikimedia.org/wikipedia/commons/9/9d/Surigao_Strait.jpg)  
-*نقشه Surigao Strait (جنوب، WW2) - دانلود: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Surigao_Strait.jpg)*
+*نقشه Surigao Strait (جنوب، WW2) - دانلود: [Wikimedia Commons](https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/571222760_1298606138949348_3632079690241531978_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AiJlIIVT-L0Q7kNvwF5CKBa&_nc_oc=AdnYLbF33KVQjT-OBbmC8qbxLEKOAkzTfh4CiId-fg9kLsDiCkIQcvou-JMepCRD0Kk&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=EPvYjFcCwAOGipeDMbqQkg&oh=00_AflI0I23IHbUMLAZ4F0GAbctatLtsjr3u_8_w5sFcdTDEg&oe=6949B03E)*
 
-**تصویر۱ (توصیف + لینک):** مین دریایی مارپیچ labyrinth → ۷۰% ناو غرق. [نمودار مین‌فیلد WW2](https://en.wikipedia.org/wiki/Naval_mine#/media/File:Minefield_pattern.jpg)  
-**تصویر۲:** گنبد آهنین → intercept. [تصویر Iron Dome interception](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Iron_Dome_interception_of_Gaza_rocket.jpg/800px-Iron_Dome_interception_of_Gaza_rocket.jpg)  
+**تصویر۱ (توصیف + لینک):** مین دریایی مارپیچ labyrinth → ۷۰% ناو غرق. [نمودار مین‌فیلد WW2](https://www.lonesentry.com/articles/ttt07/pics/minefield.jpg)  
+**تصویر۲:** گنبد آهنین → intercept. [تصویر Iron Dome interception](https://graphics.axios.com/2023-10-12-israel-iron-dome/images/2023-10-12-israel-iron-dome-desktop.jpg)
 **تصویر۳:** تونل باتان flamethrowers → landing burn.  
 
 ## 🇵🇭 رول دفاع فیلیپین صفحه سوم 🇵🇭
@@ -103,10 +103,10 @@
 **نقش موشک/بمب:** ۱۰۴۷ موشک → point به transports/تانک/پایگاه‌ها. پس هوایی → سنگرشکن beaches. لانچر ۵km داخل.  
 
 **ساختمان‌های آتلانتیکی ساحلی (beaches):** توپخانه خودکششی + لیزر.  
-**تصویر۴:** توپ A-222 Bereg ساحلی → لیزر هدف + شلیک. [تصویر A-222 Bereg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/A-222_Bereg_coastal_artillery.jpg/800px-A-222_Bereg_coastal_artillery.jpg)  
-**تصویر۵:** Javelin ضدتانک → top-attack. [تصویر Javelin launch](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Javelin_launch_1.jpg/800px-Javelin_launch_1.jpg)  
-**تصویر۶:** لیزر Avenger → drone ذوب. [تصویر Boeing Laser Avenger](https://boeing.mediaroom.com/2009-01-26-Boeing-Laser-Avenger-Shoots-Down-Unmanned-Aerial-Vehicle-in-Tests)  
-**تصویر۷:** Stinger AA دوش → UAV. [تصویر Stinger firing](https://en.wikipedia.org/wiki/FIM-92_Stinger#/media/File:Stinger_firing.jpg)  
+**تصویر۴:** توپ A-222 Bereg ساحلی → لیزر هدف + شلیک. [تصویر A-222 Bereg](https://jangaavaran.ir/wp-content/uploads/2017/05/792f6719f164e73a7f2f4ff21995be4e.jpg)  
+**تصویر۵:** Javelin ضدتانک → top-attack. [تصویر Javelin launch](https://missilethreat.csis.org/wp-content/uploads/2022/03/Javelin-Illustration.jpg)  
+**تصویر۶:** لیزر Avenger → drone ذوب. [تصویر Boeing Laser Avenger](https://f001.backblazeb2.com/file/Soapbox-Photos/stryker+msl.jpg)  
+**تصویر۷:** Stinger AA دوش → UAV. [تصویر Stinger firing](https://www.globalsecurity.org/military/library/policy/army/fm/3-01-11/fig3-1.gif)  
 **تصویر۸:** XM-25 Punisher → انفجار هوایی ۷۰۰m infantry.  
 
 **پیش‌بینی:** دشمن هر اندازه → ۱۶M دیوار + swarm + counter-strike → ۱۰۰% fail. مردم امن، hold ابدی!
